@@ -25,6 +25,8 @@ namespace busqueda13
         public MainPage()
         {
             this.InitializeComponent();
+
+
         }
     }
 }
